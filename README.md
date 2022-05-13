@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @syafiqit
 - 👀 I’m interested in making app
 - 🌱 I’m currently learning kotlin,flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me using syafiq.asyraf.it@gmail.com
 
 <!---
 syafiqit/syafiqit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
